@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Kap (@Ashish-kap)
+- 👋 Hi, I’m Ashish Kap
 - 👀 I’m interested in building web apps
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that's going to provide/seek opportunities to/from the dev communities.
